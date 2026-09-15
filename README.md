@@ -99,20 +99,7 @@ Multi-tenant SaaS booking platform serving multiple hostels, each with its own d
 
 <br/>
 
-## ▍ Activity Log
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarojdevkota521-s&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0F1A&title_color=3DDC97&icon_color=3DDC97&text_color=C9D6E3" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarojdevkota521-s&theme=dark&hide_border=true&background=0A0F1A&ring=3DDC97&fire=E3A83E&currStreakLabel=3DDC97" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojdevkota521-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0F1A&title_color=3DDC97&text_color=C9D6E3" height="150"/>
-
-</div>
-
-<br/>
 
 ## ▍ Connect
 
