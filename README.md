@@ -19,7 +19,7 @@ role:      Full Stack Developer (Python / Django)
 company:   AIOT Unitech Pvt. Ltd.
 education: BIM, Nepal Commerce Campus — Tribhuvan University
 focus:     Django REST APIs · Multi-tenant SaaS · Workflow Automation (n8n, MCP)
-uptime:    5+ months in production, 4 systems shipped
+uptime:    7+ months in production, 4 systems shipped
 # ────────────────────────────────────────────────────────────
 ```
 
@@ -94,7 +94,7 @@ Multi-tenant SaaS booking platform serving multiple hostels, each with its own d
 + Shipping features for a live SaaS product (restromandu.com) with real paying clients
 + Improving async task handling (Celery + Redis) for better performance under load
 + Exploring multi-agent automation workflows with n8n + MCP
-+ Open to Full Stack / Backend Developer opportunities
+
 ```
 
 <br/>
@@ -103,12 +103,12 @@ Multi-tenant SaaS booking platform serving multiple hostels, each with its own d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarojdevkota521&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0F1A&title_color=3DDC97&icon_color=3DDC97&text_color=C9D6E3" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarojdevkota521&theme=dark&hide_border=true&background=0A0F1A&ring=3DDC97&fire=E3A83E&currStreakLabel=3DDC97" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarojdevkota521-s&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0F1A&title_color=3DDC97&icon_color=3DDC97&text_color=C9D6E3" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarojdevkota521-s&theme=dark&hide_border=true&background=0A0F1A&ring=3DDC97&fire=E3A83E&currStreakLabel=3DDC97" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojdevkota521&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0F1A&title_color=3DDC97&text_color=C9D6E3" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojdevkota521-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0F1A&title_color=3DDC97&text_color=C9D6E3" height="150"/>
 
 </div>
 
